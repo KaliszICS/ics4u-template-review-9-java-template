@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 class Notes {
 	public static void main(String[] args) {
